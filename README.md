@@ -25,4 +25,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0021-merge-two-sorted-lists) |
+## String
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0032-longest-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0032-longest-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
