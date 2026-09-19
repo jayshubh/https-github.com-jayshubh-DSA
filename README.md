@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0205-isomorphic-strings) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0013-roman-to-integer) |
 ## Binary Search
 |  |
 | ------- |
