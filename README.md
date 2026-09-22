@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0509-fibonacci-number](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0509-fibonacci-number](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0013-roman-to-integer) |
+| [0509-fibonacci-number](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0349-intersection-of-two-arrays) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
