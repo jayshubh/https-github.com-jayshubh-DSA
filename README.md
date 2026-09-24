@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0509-fibonacci-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
 | ------- |
