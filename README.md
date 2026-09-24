@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2974-minimum-number-game](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2974-minimum-number-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [2974-minimum-number-game](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2974-minimum-number-game) |
 ## Memoization
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0258-add-digits) |
+| [2974-minimum-number-game](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2974-minimum-number-game) |
 ## String Matching
 |  |
 | ------- |
@@ -123,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0258-add-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
