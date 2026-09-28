@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0509-fibonacci-number) |
+| [1486-xor-operation-in-an-array](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2652-sum-multiples) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0231-power-of-two) |
+| [1486-xor-operation-in-an-array](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1486-xor-operation-in-an-array) |
 ## Simulation
 |  |
 | ------- |
