@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3024-type-of-triangle) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3024-type-of-triangle](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3024-type-of-triangle) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1096-brace-expansion-ii](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1096-brace-expansion-ii) |
 | [2974-minimum-number-game](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3024-type-of-triangle) |
 ## Memoization
 |  |
 | ------- |
@@ -154,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1096-brace-expansion-ii) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
