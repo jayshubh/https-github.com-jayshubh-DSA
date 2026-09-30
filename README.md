@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0977-squares-of-a-sorted-array](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -119,11 +120,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1096-brace-expansion-ii) |
 | [2974-minimum-number-game](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3024-type-of-triangle) |
