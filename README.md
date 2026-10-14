@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Linked List
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0796-rotate-string) |
 | [1096-brace-expansion-ii](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1096-brace-expansion-ii) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2942-find-words-containing-character](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2942-find-words-containing-character) |
