@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0977-squares-of-a-sorted-array](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0496-next-greater-element-i) |
 | [1096-brace-expansion-ii](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1096-brace-expansion-ii) |
 ## Sliding Window
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0496-next-greater-element-i) |
 | [1096-brace-expansion-ii](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
@@ -234,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
