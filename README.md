@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3019-number-of-changing-keys) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2974-minimum-number-game) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -224,4 +226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
