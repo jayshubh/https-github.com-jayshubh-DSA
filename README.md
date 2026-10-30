@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0739-daily-temperatures](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0739-daily-temperatures) |
 | [1096-brace-expansion-ii](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
@@ -241,4 +243,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
