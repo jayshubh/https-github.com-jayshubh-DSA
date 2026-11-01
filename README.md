@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0258-add-digits) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0509-fibonacci-number) |
 | [1486-xor-operation-in-an-array](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
