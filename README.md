@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0205-isomorphic-strings) |
+| [0402-remove-k-digits](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0402-remove-k-digits) |
 | [0709-to-lower-case](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0796-rotate-string) |
 | [1096-brace-expansion-ii](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1096-brace-expansion-ii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0225-implement-stack-using-queues) |
+| [0402-remove-k-digits](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0739-daily-temperatures) |
 | [1096-brace-expansion-ii](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1096-brace-expansion-ii) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0402-remove-k-digits) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Design
 |  |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0739-daily-temperatures) |
 ## Manacher
