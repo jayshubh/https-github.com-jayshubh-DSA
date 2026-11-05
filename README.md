@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0228-summary-ranges) |
 | [0349-intersection-of-two-arrays](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
