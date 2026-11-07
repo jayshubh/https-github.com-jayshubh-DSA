@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1550-three-consecutive-odds](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1672-richest-customer-wealth) |
+| [1882-process-tasks-using-servers](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1882-process-tasks-using-servers) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2747-count-zero-request-servers](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2747-count-zero-request-servers) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1882-process-tasks-using-servers](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1882-process-tasks-using-servers) |
 | [2974-minimum-number-game](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2974-minimum-number-game) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
