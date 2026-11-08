@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0402-remove-k-digits) |
 | [0709-to-lower-case](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1096-brace-expansion-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1957-delete-characters-to-make-fancy-string) |
@@ -119,12 +120,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0739-daily-temperatures) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Math
 |  |
 | ------- |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0402-remove-k-digits) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Design
 |  |
