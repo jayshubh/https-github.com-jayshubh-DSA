@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1267-count-servers-that-communicate](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1267-count-servers-that-communicate) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1550-three-consecutive-odds](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1550-three-consecutive-odds) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1096-brace-expansion-ii](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1096-brace-expansion-ii) |
+| [1267-count-servers-that-communicate](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1267-count-servers-that-communicate) |
 ## Polygons
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1267-count-servers-that-communicate) |
 | [1672-richest-customer-wealth](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1672-richest-customer-wealth) |
 | [3665-twisted-mirror-path-count](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [1267-count-servers-that-communicate](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1267-count-servers-that-communicate) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
 |  |
@@ -304,4 +308,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1267-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
