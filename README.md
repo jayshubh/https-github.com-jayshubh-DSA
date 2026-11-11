@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0049-group-anagrams) |
+| [0204-count-primes](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0228-summary-ranges) |
 | [0349-intersection-of-two-arrays](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0067-add-binary) |
+| [0204-count-primes](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0258-add-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0258-add-digits) |
 ## Heap (Priority Queue)
 |  |
@@ -340,4 +343,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
