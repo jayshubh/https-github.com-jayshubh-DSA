@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Binary Search
 |  |
 | ------- |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Design
 |  |
 | ------- |
