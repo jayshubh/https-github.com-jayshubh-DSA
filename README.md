@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0402-remove-k-digits) |
 | [0709-to-lower-case](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0796-rotate-string) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0257-binary-tree-paths) |
 | [1096-brace-expansion-ii](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1096-brace-expansion-ii) |
 ## Two Pointers
 |  |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1267-count-servers-that-communicate](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1267-count-servers-that-communicate) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -343,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
