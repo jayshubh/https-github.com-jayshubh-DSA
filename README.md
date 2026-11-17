@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1957-delete-characters-to-make-fancy-string](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2942-find-words-containing-character](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3019-number-of-changing-keys) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0509-fibonacci-number](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0509-fibonacci-number) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3693-climbing-stairs-ii) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sorting
 |  |
 | ------- |
