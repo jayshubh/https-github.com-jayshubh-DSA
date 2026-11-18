@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2942-find-words-containing-character](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3019-number-of-changing-keys) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
