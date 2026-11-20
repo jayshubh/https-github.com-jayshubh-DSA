@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1882-process-tasks-using-servers](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1882-process-tasks-using-servers) |
+| [2073-time-needed-to-buy-tickets](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0258-add-digits) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2073-time-needed-to-buy-tickets](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2974-minimum-number-game](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2974-minimum-number-game) |
 ## String Matching
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0225-implement-stack-using-queues) |
+| [2073-time-needed-to-buy-tickets](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Floyd's Cycle Finding Algorithm
 |  |
