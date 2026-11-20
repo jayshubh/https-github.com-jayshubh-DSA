@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0496-next-greater-element-i) |
+| [0622-design-circular-queue](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0739-daily-temperatures](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0739-daily-temperatures) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0141-linked-list-cycle) |
+| [0622-design-circular-queue](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0622-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -294,10 +296,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0225-implement-stack-using-queues) |
+| [0622-design-circular-queue](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0225-implement-stack-using-queues) |
+| [0622-design-circular-queue](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/0622-design-circular-queue) |
 | [2073-time-needed-to-buy-tickets](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Floyd's Cycle Finding Algorithm
