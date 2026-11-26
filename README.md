@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3024-type-of-triangle) |
+| [3360-stone-removal-game](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3360-stone-removal-game) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2974-minimum-number-game](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/2974-minimum-number-game) |
+| [3360-stone-removal-game](https://github.com/jayshubh/https-github.com-jayshubh-DSA/tree/master/3360-stone-removal-game) |
 ## String Matching
 |  |
 | ------- |
